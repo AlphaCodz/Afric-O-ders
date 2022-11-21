@@ -4,9 +4,9 @@ O - Optimistic - There is nothing impossible
 <p>Building APIs that solves real world problems, or improves on the existing solutions by adding our custom features. Also, documenting every notable step taken to 
 enhance readability, seamless usage, and allow beginners to learn from what we've built. </p>
 
-<blockquote>
-Stack: PYTHON, DJANGO, DJANGORESTFRAMEWORK
-</blockqoute>
+
+<h2>Stack used: PYTHON, DJANGO, DJANGORESTFRAMEWORK</h2>
+
 
 <hr>
 
