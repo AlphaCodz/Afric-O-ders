@@ -1,4 +1,3 @@
-# Afric-O-ders
 <h1>Afric'O'ders</h1>
 O - Optimistic - There is nothing impossible
 <h2>Opensource Projects</h2>
