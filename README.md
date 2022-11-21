@@ -11,7 +11,11 @@ enhance readability, seamless usage, and allow beginners to learn from what we'v
 <hr>
 
 <h2>What is OpenSource and why you should contribute</h2>
-<p>The term ‘open source’ describes software that is available on an open source licence that shares the source code or human readable code, and allows anyone using the code on that licence to maintain and modify the code.</p>
+<p>The term ‘open source’ describes software that is available on an open source licence that shares the source code or human readable code, and allows anyone using the code on that licence to maintain and modify the code.
+
+* Open Source helps you increase you skills
+
+* Community - Like the African proverb, it takes a whole comunity to raise a child, you need a lot of people to become one of the best if not the best</p>
 
 
 <h2>What is the future for open source?</h2>
